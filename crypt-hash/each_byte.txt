@@ -1,0 +1,253 @@
+[x] Opening connection to 172.18.10.105 on port 38483
+[x] Opening connection to 172.18.10.105 on port 38483: Trying 172.18.10.105
+[+] Opening connection to 172.18.10.105 on port 38483: Done
+ == proof-of-work: disabled ==
+Welcome to Hashes R Us
+Type 'help' to get a list of available commands
+
+>>
+ 
+Loading file data into memory file: mysupersecretflagfile
+File succesfully loaded into memory
+>>
+hash 0 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 0
+
+Truncated Digest: 
+06576556D1AD802F247CAD11AE748BE47B70CD
+>>
+hash 1 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 1
+
+Truncated Digest: 
+C2C53D66948214258A26CA9CA845D7AC0C17F8
+>>
+hash 2 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 2
+
+Truncated Digest: 
+C032ADC1FF629C9B66F22749AD667E6BEADF14
+>>
+hash 3 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 3
+
+Truncated Digest: 
+E69F20E9F683920D3FB4329ABD951E878B1F93
+>>
+hash 4 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 4
+
+Truncated Digest: 
+D160E0986ACA4714714A16F29EC605AF90BE70
+>>
+hash 5 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 5
+
+Truncated Digest: 
+6DCD4CE23D88E2EE9568BA546C007C63D9131C
+>>
+hash 6 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 6
+
+Truncated Digest: 
+A36A6718F54524D846894FB04B5B885B4E43E6
+>>
+hash 7 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 7
+
+Truncated Digest: 
+60BA4B2DAA4ED4D070FEC06687E249E0E6F9EE
+>>
+hash 8 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 8
+
+Truncated Digest: 
+3C363836CF4E16666669A25DA280A1865C2D28
+>>
+hash 9 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 9
+
+Truncated Digest: 
+1B6453892473A467D07372D45EB05ABC203164
+>>
+hash 10 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 10
+
+Truncated Digest: 
+8EFD86FB78A56A5145ED7739DCB00C78581C53
+>>
+hash 11 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 11
+
+Truncated Digest: 
+86F7E437FAA5A7FCE15D1DDCB9EAEAEA377667
+>>
+hash 12 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 12
+
+Truncated Digest: 
+53A0ACFAD59379B3E050338BF9F23CFC172EE7
+>>
+hash 13 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 13
+
+Truncated Digest: 
+58E6B3A414A1E090DFC6029ADD0F3555CCBA12
+>>
+hash 14 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 14
+
+Truncated Digest: 
+11F6AD8EC52A2984ABAAFD7C3B516503785C20
+>>
+hash 15 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 15
+
+Truncated Digest: 
+4A0A19218E082A343A1B17E5333409AF9D98F0
+>>
+hash 16 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 16
+
+Truncated Digest: 
+356A192B7913B04C54574D18C28D46E6395428
+>>
+hash 17 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 17
+
+Truncated Digest: 
+07C342BE6E560E7F43842E2E21B774E61D85F0
+>>
+hash 18 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 18
+
+Truncated Digest: 
+C2B7DF6201FDD3362399091F0A29550DF3505B
+>>
+hash 19 1
+ 
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 1
+Offset: 19
+
+Truncated Digest: 
+ADC83B19E793491B1C6EA0FD8B46CD9F32E592
+>>
+[*] Closed connection to 172.18.10.105 port 38483

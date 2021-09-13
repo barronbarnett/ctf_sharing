@@ -1,0 +1,11 @@
+hash 0 64
+
+----- HASHING DATA -----
+Algorithm used: SHA-1
+Digest size: 20
+Block size: 64
+Size hashed: 64
+Offset: 0
+
+Truncated Digest: 
+EB3EE847EA4425D5E56D3236F7C6A0E2A40946
