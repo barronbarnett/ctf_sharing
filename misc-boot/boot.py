@@ -1,10 +1,23 @@
+from typing import List
 from pwn import *
+import re
 
-r = remote('172.18.10.105', 30677)
+index = 0
+MAXCNT = 16536
+while index < MAXCNT+1:
+    print(index)
+    r = remote('172.18.10.105', 30677)
+    bytes = bytearray().fromhex("0304")
+    r.send_raw(bytes)
+    print(r.recvall(10).decode('utf-8'))
+    #r.interactive()
 
-print(" ", r.recvline().decode('utf8'))
-print(" ", r.recvline().decode('utf8'))
+    r.close()
 
-r.sendline("rescue")
+data = open("output.txt", "w")
+print("Here is the full list")
+for value in arrayOfCryptText:
+    print(value)
+    data.write(value + "\n")
 
-print(" ", r.recvall().decode('utf8'))
+data.close()
