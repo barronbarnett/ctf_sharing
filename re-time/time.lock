@@ -1,9 +1,9 @@
 #Ghidra Lock File
-#Sat Sep 18 00:30:16 MDT 2021
+#Sat Sep 18 15:16:08 MDT 2021
 OS\ Name=Linux
 OS\ Version=5.10.0-kali9-amd64
 Username=barronb
 Hostname=roci-kali-vm
 <META>\ Supports\ File\ Channel\ Locking=Channel Lock
 OS\ Architecture=amd64
-Timestamp=9/18/21, 12\:30 AM
+Timestamp=9/18/21, 3\:16 PM
