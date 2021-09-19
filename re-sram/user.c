@@ -38,6 +38,11 @@
  * information for the simulator
  */
 #include "avr_mcu_section.h"
+
+#define SRAM_START 0x0100
+#define SRAM_INTERNAL_END 0x21FF
+#define SRAM_EXTERNAL_END 0xFFFF
+
 AVR_MCU(F_CPU, "atmega2560");
 
 static int uart_putchar(char c, FILE *stream) {
@@ -58,6 +63,14 @@ int main()
 
 	printf("Bootloader properly programmed, and ran me! Huzzah!\n");
 
-	while (1) {};
+	for (uint8_t* i=SRAM_START;i <= SRAM_INTERNAL_END; i=i+8) {
+		printf("%02X %02X %02X %02X %02X %02X %02X %02X\r\n", i[0], i[1], i[2], i[3], i[4], i[5], i[6], i[7]);
+	};
+	
+	while (1) {
+		// read from 0x0100-0x08FF
+
+		
+	};
 }
 
